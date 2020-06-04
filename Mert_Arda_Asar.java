@@ -1,8 +1,6 @@
 /*
-COMP110 Assignment-4 Projectile Motion
 Date       : 10.05.2020
-Student    : Mert Arda Asar
-Student ID : 041801095
+Author    : Mert Arda Asar
 
  The main purpose of the program is modelling the projectile motion with a ball.
 It allows the user to set the velocity and angle of movement of the ball.
