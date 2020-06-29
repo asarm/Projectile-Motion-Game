@@ -4,6 +4,6 @@ and draws a red line between their center. It uses the StdDraw graphic library w
 doing all this.
 
 <div class='row'>
-  <img src="screenshots/img1.jpg">
+  <img style='margin:3%;' src="screenshots/img1.jpg">
   <img src="screenshots/img2.jpg">
 </div>
