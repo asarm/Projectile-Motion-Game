@@ -8,3 +8,7 @@ player loses. Balls must hit red objects to win.
 restart the game with key 'P'. 
 
 
+<img src="screenshots/img1.jpg">
+<img src="screenshots/img2.jpg">
+<img src="screenshots/img3.jpg">
+
