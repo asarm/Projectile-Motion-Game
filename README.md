@@ -3,5 +3,7 @@ circles between them. After find the farthest circles, program changes their thi
 and draws a red line between their center. It uses the StdDraw graphic library while
 doing all this.
 
-<img src="screenshots/img1.jpg">
-<img src="screenshots/img2.jpg">
+<div class='row'>
+  <img src="screenshots/img1.jpg">
+  <img src="screenshots/img2.jpg">
+</div>
